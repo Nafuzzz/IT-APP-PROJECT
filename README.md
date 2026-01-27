@@ -36,7 +36,7 @@ The target users for this training are:
 -	Newly hired grocery store staff
 -	Employees with little or no retail experience
 -	Anyone who needs extra practice before doing tasks individually 
-## SECTION 2. BUSINESS NEEDS & DIGITAL INNOVATION (YU HENG)
+## SECTION 2. BUSINESS NEEDS & DIGITAL INNOVATION
 NegaMart as multiple Business needs to cover and increase new hire’s experience and speed before entering and taking part in actual work. As covered below The issues covered and the solutions that we will provide Through Our games.
 
 ## Business Need 1: Faster Checkout Accuracy
@@ -81,7 +81,7 @@ NegaMart as multiple Business needs to cover and increase new hire’s experienc
 
 
 
-## Section 3: Game Plan (Nafiz)
+## Section 3: Game Plan 
 Game overview
 The purpose of this game is to help train the players to become ready to handle any situation expected of a person that’s working at a grocery store. The game is to help them practice their skills digitally so that they can build confidence, learn to work under pressure and for them to build that muscle memory capable of responding to any situation and capable of doing such repetitive tasks. The game uses things like timers and a points system to recreate the feel of a real work environment. This allows them to train new staff through a game instead of training them on the job.
 There will be 4 levels to the game each representing a main part of working in a grocery store.
@@ -161,7 +161,7 @@ Multiple and diverse scenarios and types of customers to properly train staff to
 The level ends when a set number of scenarios are done for example 5 scenarios
 Player wins if most scenarios are handled correctly. Player loses if most handled wrongly.
 
-## SECTION 4: How the game helps (RIAN)
+## SECTION 4: How the game helps
 
 How the Game Supports New Staff?
 -	Provides safe space for hires to practice task without any real consequences 

@@ -6,7 +6,7 @@ This project follows an Agile methodology where development is done in short ite
 Each iteration focuses on designing, building, testing, and refining parts of the game. 
 This allows continuous feedback and improvements throughout the project timeline.
 
-### **Week 8 – Sprint 0: Project Setup & Planning**
+### **Week 8 – Project Setup & Planning**
 
 * Define project scope and objectives
 * Finalise game concept and training goals
@@ -14,7 +14,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Set up GitHub repository and folder structure
 
 
-### **Week 9 – Sprint 1: Research & Requirement Analysis**
+### **Week 9 – Research & Requirement Analysis**
 
 * Research grocery store training challenges
 * Identify business needs and digital innovation opportunities
@@ -22,7 +22,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Define level requirements and win/lose conditions
 
 
-### **Week 10 – Sprint 2: Game Design & Wireframing**
+### **Week 10 – Game Design & Wireframing**
 
 * Design gameplay mechanics for all 4 levels
 * Create wireframes for each level
@@ -30,7 +30,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Prepare initial sprites and backdrops
 
 
-### **Week 11 – Sprint 3: Individual Level Development**
+### **Week 11 – Individual Level Development**
 
 * Develop Level 1 (Cashier)
 * Develop Level 2 (Shelf Stocking)
@@ -38,7 +38,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Develop Level 4 (Customer Service)
 
 
-### **Week 12 – Sprint 4: Feature Completion & Refinement**
+### **Week 12 – Feature Completion & Refinement**
 
 * Complete core mechanics for all levels
 * Implement timers and win/lose conditions
@@ -46,7 +46,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Upload individual Scratch `.sb3` files to GitHub
 
 
-### **Week 13 – Sprint 5: Integration & Debugging**
+### **Week 13 – Integration & Debugging**
 
 * Integrate all levels into one Scratch project
 * Implement level transitions and flow
@@ -54,7 +54,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Improve usability based on testing feedback
 
 
-### **Week 14 – Sprint 6: Testing & Iteration**
+### **Week 14 – Testing & Iteration**
 
 * Conduct full gameplay testing
 * Refine difficulty, pacing, and interactions
@@ -62,7 +62,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Finalise gameplay mechanics
 
 
-### **Week 15 – Sprint 7: Documentation & Presentation**
+### **Week 15 – Documentation & Presentation**
 
 * Finalise GitHub documentation
 * Prepare presentation slides
@@ -70,7 +70,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Perform final checks on Scratch project
 
 
-### **Week 16 – Sprint 8: Final Review & Submission**
+### **Week 16 – Final Review & Submission**
 
 * Final testing and validation
 * Submit GitHub repository

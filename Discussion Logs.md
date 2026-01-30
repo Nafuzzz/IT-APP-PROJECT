@@ -14,7 +14,6 @@
 **Key Discussion Points:**
 
 * Agreed to design a digital training game for grocery store staff
-* Chose Scratch as the development platform due to low cost and accessibility
 * Decided on 4 game levels based on real grocery store tasks
 
 **Decisions Made:**

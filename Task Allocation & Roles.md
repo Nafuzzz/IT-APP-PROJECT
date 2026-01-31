@@ -20,7 +20,7 @@
 
 ### Documentation & Project Management
 
-* **Project Documentation (GitHub files):** Sharon
+* **Project Documentation (GitHub files):** Nafiz
 
   * Task allocation
   * Schedule
@@ -38,4 +38,8 @@
 
   * Identify and document relevant websites and resources
   * Maintain references file
+    
+## Notes
 
+* Made using ChatGPT
+* Prompt: help me make a task allocation/roles for github. level 1: yu heng level 2: Rian level3:Nafiz(me) Level 4:Sharon complie all levels into 1 file/game: me makingthe github:me bug fixer:nil tester:nil add more roles if have and fill up names make sure equal work distribution

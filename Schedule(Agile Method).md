@@ -76,4 +76,9 @@ This allows continuous feedback and improvements throughout the project timeline
 * Submit GitHub repository
 * Submit Scratch project and presentation materials
 
+## Notes
+
+* Made using ChatGPT
+* Prompt: help me create a schedule for github based on the agile method using what i told you for the disscussion logs
+
   

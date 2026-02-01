@@ -34,7 +34,7 @@
 * **Presentation Slides:** All members
   * Each member contributes their assigned section
 
-* **References & Research:** Yu Heng
+* **References & Research:** Sharon
 
   * Identify and document relevant websites and resources
   * Maintain references file

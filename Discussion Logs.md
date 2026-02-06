@@ -63,7 +63,7 @@
 
 * Review individual level progress
 
-* Identify issues and risks
+* Identify issues and bugs
 
 **Key Discussion Points:**
 
@@ -90,12 +90,5 @@
 * Finalise Scratch project
 * Submit GitHub repository and presentation slides
 
----
-
-## Notes
-
-* Meetings were conducted both online and in person
-* Made using ChatGPT
-* Prompt: week 8 we came up with our game idea of grocery store training simulator and decided that of the 4 members we would make 4 levels each level representing a task commonly done by ppl working there then we gave each member their desired level and left it to me to combine all the levels at the end. then week 9 we needed to come up with business needs to support our idea and some innovation aspect as well. we disscussed that most newbie staff are inexpireneced and mess up alot especially during peak hours and that their normal method of training is time consuming and needs like a mentor to help teach them which is wasted use of manpower when that guy can be doing his own work instead of teaching and becuase a game cheap easy effective method to training and lastly we came up with a bussiness need per level. then week 13 we talked about how to make each level made wireframes decided on how to win/lose/ earn points all the mecahincs. then week 15 we meet up to check progress help each other out with probelms with code tested each others games and looked for places to be better. then lastly week 16 our final review made sure we did all the rubrics asked claarified with each other how to explain or explained to each other beceause we forgot the game mechanics. we finallize everything and submit. using this make a organized disscussion and meeting minutes for my github repo for this project
 
 

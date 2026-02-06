@@ -1,12 +1,6 @@
-## Project Schedule & Methodology (Agile Approach)
+## Project Schedule
 
-### **Methodology Used: Agile (Iterative Development)**
-
-This project follows an Agile methodology where development is done in short iterations. 
-Each iteration focuses on designing, building, testing, and refining parts of the game. 
-This allows continuous feedback and improvements throughout the project timeline.
-
-### **Week 8 – Project Setup & Planning**
+### **Week 8 – Project Planning**
 
 * Define project scope and objectives
 * Finalise game concept and training goals
@@ -38,7 +32,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Develop Level 4 (Customer Service)
 
 
-### **Week 12 – Feature Completion & Refinement**
+### **Week 12 – Development**
 
 * Complete core mechanics for all levels
 * Implement timers and win/lose conditions
@@ -54,7 +48,7 @@ This allows continuous feedback and improvements throughout the project timeline
 * Improve usability based on testing feedback
 
 
-### **Week 14 – Testing & Iteration**
+### **Week 14 – Testing**
 
 * Conduct full gameplay testing
 * Refine difficulty, pacing, and interactions
@@ -72,7 +66,7 @@ This allows continuous feedback and improvements throughout the project timeline
 
 ### **Week 16 – Final Review & Submission**
 
-* Final testing and validation
+* Final testing 
 * Submit GitHub repository
 * Submit Scratch project and presentation materials
 

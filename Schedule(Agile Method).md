@@ -79,6 +79,6 @@ This allows continuous feedback and improvements throughout the project timeline
 ## Notes
 
 * Made using ChatGPT
-* Prompt: help me create a schedule for github based on the agile method using what i told you for the disscussion logs
+* Prompt: help me create a schedule for github for my game in scratch based on the agile method 
 
   

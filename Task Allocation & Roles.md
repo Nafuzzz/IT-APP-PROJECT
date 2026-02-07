@@ -22,4 +22,6 @@
 
 * **Presentation Slides:** All members
 
+made with the help on ChatGPT
+Prompt: help me make task allocation and roles for github 
 

@@ -73,6 +73,6 @@
 ## Notes
 
 * Made using ChatGPT
-* Prompt: help me create a schedule for github for my game in scratch based on the agile method 
+* Prompt: help me create a schedule for github for my grocery game with 4 levels and 4 members in scratch 
 
   

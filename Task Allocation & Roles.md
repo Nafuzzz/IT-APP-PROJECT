@@ -22,6 +22,6 @@
 
 * **Presentation Slides:** All members
 
-made with the help on ChatGPT
-Prompt: help me make task allocation and roles for github 
+made with the help of ChatGPT
+Prompt: help me make a task allocation/roles for github. level 1: yu heng level 2: Rian level3:Nafiz(me) Level 4:Sharon complie all levels into 1 file/game: me makingthe github:me bug fixer:nil tester:nil add more roles if have and fill up names make sure equal work distribution
 
